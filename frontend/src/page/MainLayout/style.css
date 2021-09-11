@@ -1,0 +1,16 @@
+.LayoutComponent {
+    text-align: center;
+}
+
+.LayoutComponent .header {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    font-size: large;
+    font-weight:bold
+}
+
+.LayoutComponent .error-message {
+    color: red;
+}
