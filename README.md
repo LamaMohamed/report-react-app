@@ -2,12 +2,12 @@
 Full stack application for our spam protection team that consists of a server and a web based UI in order to manage reported content.
 
 ## Run UI
-cd/frontend
-npm start
+- cd/frontend
+- npm start
 
 ## Run Server
-cd/backend
-nodemon app
+- cd/backend
+- nodemon app
 
 ## Challenge description
 
